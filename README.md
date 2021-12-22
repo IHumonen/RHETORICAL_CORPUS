@@ -12,6 +12,6 @@ analysing the performance of the parsers, we made several conclusions regarding 
 errors and the differences between two languages.
 https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view
 
-В этом репозитории лежит всякий код и резултаты работы русского авторазметчика (и будут лежать новые rst-файлы), <code>[тут](https://github.com/PolinaGusenkova/arg-microtexts-multilayer-eng-rus)
+В этом репозитории лежит всякий код и результаты работы русского авторазметчика (и будут лежать новые rst-файлы), <code>[тут](https://github.com/PolinaGusenkova/arg-microtexts-multilayer-eng-rus)
 </code> лежит английский корпус, а <code>[тут](https://github.com/tchewik/isanlp_rst)
 </code> -- авторазметчик для русского языка, которым мы пользовались.
