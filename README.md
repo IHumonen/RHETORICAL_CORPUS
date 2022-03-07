@@ -30,7 +30,7 @@ If you are using our corpus for research purposes, please cite the following pap
 Links
 -----
 
-* [Our paper] (https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view)
-* [Original corpus] (https://github.com/PolinaGusenkova/arg-microtexts-multilayer-eng-rus)
-* [Russian RST parser] (https://github.com/tchewik/isanlp_rst)
-* [Rhetorical structure theory] (https://www.sfu.ca/rst/05bibliographies/bibs/Mann_Thompson_1988.pdf)
+* [Our paper](https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view)
+* [Original corpus](https://github.com/PolinaGusenkova/arg-microtexts-multilayer-eng-rus)
+* [Russian RST parser](https://github.com/tchewik/isanlp_rst)
+* [Rhetorical structure theory](https://www.sfu.ca/rst/05bibliographies/bibs/Mann_Thompson_1988.pdf)
