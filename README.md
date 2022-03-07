@@ -9,7 +9,7 @@ for a collection of texts, adapted the annotation instruction on rhetorical rela
 analysing the performance of the parsers, we made several conclusions regarding the types of
 errors and the differences between two languages. You can read the full description of our work [here](https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view).
 
-Scheme of Russian parser's adaptation
+Scheme of the Russian parser's adaptation
 
 ![text](https://github.com/IHumonen/RHETORICAL_CORPUS/blob/main/adaptation_scheme.png?raw=true)
 
