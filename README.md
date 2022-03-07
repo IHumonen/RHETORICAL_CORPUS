@@ -1,17 +1,36 @@
-Many natural language processing tasks, such as generating or summarizing text, include
-recognizing relationships between parts of text and establishing a hierarchy of those parts.
-The annotation of texts according to the rhetorical structures theory (RST) allows obtaining
-such data, but it requires a lot of resources. The aim of this work is to create an annotated
-parallel Russian-English corpus. To do this, we considered the English texts marked with
-RST and their Russian translations, conducting experiments to improve the existing Russian
+RST-annotated parallel Russian-English corpus
+=============================================
+
+This repository holds a corpus of 112 short automatically rst-annotated russian microtexts and corresponding annotation scripts. To create it, we considered the English texts marked with RST and their Russian translations, conducting experiments to improve the existing Russian
 parser, as well as to transfer annotation from English using automatic mapping. During our
 work, we modified the division into elementary discursive units so that our segmentation
 would sufficiently correspond to the English one and developed a gold segmentation standard
 for a collection of texts, adapted the annotation instruction on rhetorical relations. After
 analysing the performance of the parsers, we made several conclusions regarding the types of
-errors and the differences between two languages.
-https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view
+errors and the differences between two languages. You can read the full description of our work [here](https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view).
 
-В этом репозитории лежит всякий код и результаты работы русского авторазметчика (и будут лежать новые rst-файлы), <code>[тут](https://github.com/PolinaGusenkova/arg-microtexts-multilayer-eng-rus)
-</code> лежит английский корпус, а <code>[тут](https://github.com/tchewik/isanlp_rst)
-</code> -- авторазметчик для русского языка, которым мы пользовались.
+Source data
+-----------
+
+The original parallel text corpus (annotated english texts and non-annotated russian translations) is available [here](https://github.com/PolinaGusenkova/arg-microtexts-multilayer-eng-rus).
+
+License and Citation
+--------------------
+
+The corpus, the annotations and the associated code are released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You can find a human-readable summary of the licence agreement here:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+If you are using our corpus for research purposes, please cite the following paper???:
+
+    Humonen K., Petrova D.  
+    Developing of the parallel Russian-English corpus with the discourse annotation.
+    Moscow, National Research University Higher School of Economics. 2022
+
+Links
+-----
+
+* [Our paper] (https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view)
+* [Original corpus] (https://github.com/PolinaGusenkova/arg-microtexts-multilayer-eng-rus)
+* [Russian RST parser] (https://github.com/tchewik/isanlp_rst)
+* [Rhetorical structure theory] (https://www.sfu.ca/rst/05bibliographies/bibs/Mann_Thompson_1988.pdf)
