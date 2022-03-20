@@ -27,7 +27,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 If you are using our corpus for research purposes, please cite the following paper???:
 
-    Humonen K., Petrova D.  
+    Humonen I., Petrova D.  
     Developing of the parallel Russian-English corpus with the discourse annotation [Unpublished manuscript].
     Moscow, National Research University Higher School of Economics. 2022
 
