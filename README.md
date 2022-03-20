@@ -7,7 +7,11 @@ work, we modified the division into elementary discursive units so that our segm
 would sufficiently correspond to the English one and developed a gold segmentation standard
 for a collection of texts, adapted the annotation instruction on rhetorical relations. After
 analysing the performance of the parsers, we made several conclusions regarding the types of
-errors and the differences between two languages. You can read the full description of our work [here](https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view).
+errors and the differences between two languages. 
+
+The project was developed as a part of the first year of HSE University's "Computational lingusistics" master programm by students Daria Petrova and Innokentiy Humonen with the help of Polina Gusenkova (University of Potsdam, Student), Svetlana Toldova (HSE University, Associate Professor), Anastasiya A. Bonch-Osmolovskaya (HSE University, Associate Professor) and Manfred Stede (University of Potsdam, Professor).
+
+You can read the full description of our work [here](https://drive.google.com/file/d/1GoGGJI2fLA2tVnlmUo3GvXyC9Sv_GzLy/view).
 
 Scheme of the Russian parser's adaptation:
 
