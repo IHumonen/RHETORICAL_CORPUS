@@ -1,0 +1,33 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+absl-py=0.15.0=pyhd3eb1b0_0
+aio-pika=6.4.1=pypi_0
+bert-dp=1.0=pypi_0
+c-ares=1.18.1=h7f8727e_0
+ca-certificates=2022.2.1=h06a4308_0
+cached-property=1.5.2=py_0
+dawg-python=0.7.2=pypi_0
+dependency-decoding=0.0.1=pypi_0
+google-pasta=0.2.0=pyhd3eb1b0_0
+importlib-metadata=4.8.2=py37h06a4308_0
+intel-openmp=2021.4.0=h06a4308_3561
+keras-applications=1.0.8=py_1
+keras-preprocessing=1.1.2=pyhd3eb1b0_0
+ld_impl_linux-64=2.35.1=h7274673_9
+libgcc-ng=9.3.0=h5101ec6_17
+libgfortran-ng=7.5.0=ha8ba4b0_17
+libstdcxx-ng=9.3.0=hd4cf53a_17
+matplotlib-inline=0.1.2=pyhd3eb1b0_2
+mkl-service=2.4.0=py37h7f8727e_0
+nest-asyncio=1.5.1=pyhd3eb1b0_0
+opt-einsum=3.3.0=pypi_0
+prometheus-client=0.7.1=pypi_0
+prompt-toolkit=3.0.20=pyhd3eb1b0_0
+pymorphy2-dicts=2.4.393442.3710985=pypi_0
+pymorphy2-dicts-ru=2.4.417127.4579844=pypi_0
+python-dateutil=2.8.2=pyhd3eb1b0_0
+ruamel-yaml=0.15.100=pypi_0
+russian-tagsets=0.6=pypi_0
+scikit-learn=0.21.2=pypi_0
+tensorflow-estimator=1.15.1=pypi_0
