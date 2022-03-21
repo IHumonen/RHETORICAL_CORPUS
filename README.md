@@ -29,7 +29,7 @@ The corpus, the annotations and the associated code are released under a Creativ
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-If you are using our corpus for research purposes, please cite the following paper???:
+If you are using our corpus for research purposes, please cite the following paper:
 
     Humonen I., Petrova D.  
     Developing of the parallel Russian-English corpus with the discourse annotation [Unpublished manuscript].
